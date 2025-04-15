@@ -1,4 +1,4 @@
-package com.example.langauge_expert
+package com.example.project_tuter
 
 import io.flutter.embedding.android.FlutterActivity
 

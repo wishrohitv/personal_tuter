@@ -1,0 +1,836 @@
+[
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: ur-PK-language, locale: ur-PK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-gb-x-gba-local, locale: en-GB, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: hi-in-x-hia-local, locale: hi-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ja-jp-x-htm-network, locale: ja-JP, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: kn-in-x-knm-network, locale: kn-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nl-nl-x-yfr-network, locale: nl-NL, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: it-it-x-itd-local, locale: it-IT, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-gb-x-gbb-network, locale: en-GB, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: high, name: bs, locale: bs, network_required: 1, quality: very low
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: vi-vn-x-vif-network, locale: vi-VN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: uk-UA-language, locale: uk-UA, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: sv-se-x-lfs-local, locale: sv-SE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: cmn-tw-x-ctc-network, locale: zh-TW, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-tpf-local, locale: en-US, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: de-de-x-deb-network, locale: de-DE, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: yue-hk-x-yuf-network, locale: yue-HK, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nl-nl-x-yfr-local, locale: nl-NL, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pl-pl-x-afb-local, locale: pl-PL, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-au-x-aub-network, locale: en-AU, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-ca-x-cab-local, locale: fr-CA, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: ta-in-x-tag-network, locale: ta-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: ru-ru-x-rud-network, locale: ru-RU, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: da-dk-x-sfp-network, locale: da-DK, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: ru-ru-x-ruf-local, locale: ru-RU, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: bn-BD-language, locale: bn-BD, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: te-in-x-tem-network, locale: te-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-au-x-auc-local, locale: en-AU, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-in-x-ene-network, locale: en-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: zh-TW-language, locale: zh-TW, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: hi-in-x-hie-network, locale: hi-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: vi-vn-x-vid-network, locale: vi-VN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: yue-hk-x-yud-network, locale: yue-HK, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: hi-in-x-cfn-local, locale: hi-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ko-kr-x-koc-network, locale: ko-KR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pl-pl-x-bmg-network, locale: pl-PL, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: id-id-x-dfz-network, locale: id-ID, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: hi-in-x-hic-network, locale: hi-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-au-x-aud-network, locale: en-AU, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: cmn-cn-x-cce-local, locale: zh-CN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: ml-IN-language, locale: ml-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-sfg-network, locale: en-US, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pl-pl-x-zfg-network, locale: pl-PL, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	legacySetLanguageVoice	networkRetriesCount, latency: low, name: hi-IN-language, locale: hi-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: tr-tr-x-tmc-local, locale: tr-TR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-fr-x-vlf-network, locale: fr-FR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: cmn-cn-x-ssa-local, locale: zh-CN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: ru-ru-x-ruf-network, locale: ru-RU, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: ar-language, locale: ar, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: cmn-tw-x-ctc-local, locale: zh-TW, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-gb-x-rjs-local, locale: en-GB, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: et-ee-x-tms-network, locale: et-EE, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: vi-vn-x-vie-local, locale: vi-VN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: fr-CA-language, locale: fr-CA, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: hi-in-x-hid-local, locale: hi-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ms-my-x-msc-local, locale: ms-MY, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ja-jp-x-jab-network, locale: ja-JP, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: it-IT-language, locale: it-IT, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: jv-id-x-jvf-local, locale: jv-ID, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: bn-bd-x-ban-network, locale: bn-BD, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: bn-bd-x-ban-local, locale: bn-BD, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ar-xa-x-ard-network, locale: ar, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: el-GR-language, locale: el-GR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-sfg-local, locale: en-US, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: fil-PH-language, locale: fil-PH, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: bn-in-x-bin-network, locale: bn-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pl-pl-x-jmk-network, locale: pl-PL, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-gb-x-gbg-local, locale: en-GB, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: bn-IN-language, locale: bn-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: hi-in-x-hia-network, locale: hi-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: es-us-x-esc-local, locale: es-US, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: fi-FI-language, locale: fi-FI, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-ca-x-cab-network, locale: fr-CA, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: hu-HU-language, locale: hu-HU, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: fr-FR-language, locale: fr-FR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fil-ph-x-fie-local, locale: fil-PH, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: da-DK-language, locale: da-DK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ja-jp-x-jad-network, locale: ja-JP, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: sv-se-x-afp-local, locale: sv-SE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fil-ph-x-fid-network, locale: fil-PH, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: bn-in-x-bnx-network, locale: bn-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: si-lk-x-sin-local, locale: si-LK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: sk-sk-x-sfk-local, locale: sk-SK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-iob-local, locale: en-US, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: bg-bg-x-ifk-local, locale: bg-BG, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: th-th-x-mol-local, locale: th-TH, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: km-kh-x-khm-network, locale: km-KH, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: es-us-x-esf-local, locale: es-US, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pa-in-x-pac-local, locale: pa-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ar-xa-x-are-local, locale: ar, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: hu-hu-x-kfl-network, locale: hu-HU, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pt-pt-x-jmn-network, locale: pt-PT, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	legacySetLanguageVoice	networkRetriesCount, latency: low, name: ru-RU-language, locale: ru-RU, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nl-nl-x-lfc-network, locale: nl-NL, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-gb-x-gbd-local, locale: en-GB, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-fr-x-frc-network, locale: fr-FR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-gb-x-gbd-network, locale: en-GB, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nl-nl-x-dma-network, locale: nl-NL, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: km-kh-x-khm-local, locale: km-KH, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: cs-cz-x-jfs-local, locale: cs-CZ, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: tr-tr-x-efu-network, locale: tr-TR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: et-ee-x-tms-local, locale: et-EE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-in-x-enc-network, locale: en-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: kn-in-x-knf-local, locale: kn-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: es-es-x-eef-local, locale: es-ES, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: es-es-x-eec-local, locale: es-ES, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: te-in-x-tef-local, locale: te-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ml-in-x-mlm-local, locale: ml-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: tr-tr-x-mfm-local, locale: tr-TR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: gu-in-x-gum-network, locale: gu-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-in-x-enc-local, locale: en-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: sv-se-x-dmc-local, locale: sv-SE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ms-my-x-msg-network, locale: ms-MY, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fi-fi-x-afi-local, locale: fi-FI, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: bn-in-x-bnm-network, locale: bn-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-tpd-network, locale: en-US, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nb-no-x-cfl-local, locale: nb-NO, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: id-id-x-ide-local, locale: id-ID, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ko-kr-x-kod-local, locale: ko-KR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: kn-in-x-knf-network, locale: kn-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: kn-in-x-knm-local, locale: kn-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: es-us-x-esf-network, locale: es-US, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: yue-hk-x-jar-network, locale: yue-HK, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-tpc-network, locale: en-US, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: vi-vn-x-gft-network, locale: vi-VN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-fr-x-frb-local, locale: fr-FR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: el-gr-x-vfz-local, locale: el-GR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: ta-in-x-taf-local, locale: ta-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pl-pl-x-afb-network, locale: pl-PL, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-in-x-end-local, locale: en-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: pt-PT-language, locale: pt-PT, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ja-jp-x-jad-local, locale: ja-JP, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-gb-x-gbb-local, locale: en-GB, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: cmn-cn-x-ccd-network, locale: zh-CN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: sv-se-x-dmc-network, locale: sv-SE, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ar-xa-x-arc-local, locale: ar, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: gu-in-x-guf-network, locale: gu-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ko-kr-x-ism-local, locale: ko-KR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: gu-IN-language, locale: gu-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-in-x-ena-network, locale: en-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pt-br-x-pte-local, locale: pt-BR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: es-es-x-eed-local, locale: es-ES, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nb-no-x-rfj-network, locale: nb-NO, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: de-DE-language, locale: de-DE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nl-be-x-bed-network, locale: nl-BE, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	legacySetLanguageVoice	networkRetriesCount, latency: low, name: zh-CN-language, locale: zh-CN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ms-my-x-msg-local, locale: ms-MY, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-fr-x-frd-network, locale: fr-FR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: bg-bg-x-ifk-network, locale: bg-BG, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: yue-hk-x-yuf-local, locale: yue-HK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: ja-JP-language, locale: ja-JP, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-au-x-aub-local, locale: en-AU, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: ru-ru-x-rue-local, locale: ru-RU, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-in-x-ahp-local, locale: en-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: es-ES-language, locale: es-ES, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: gu-in-x-guf-local, locale: gu-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pl-pl-x-jmk-local, locale: pl-PL, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: ms-MY-language, locale: ms-MY, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fil-ph-x-fid-local, locale: fil-PH, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nl-be-x-bec-network, locale: nl-BE, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fil-ph-x-fie-network, locale: fil-PH, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ar-xa-x-ard-local, locale: ar, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-gb-x-gbc-local, locale: en-GB, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: yue-hk-x-jar-local, locale: yue-HK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: yue-hk-x-yue-local, locale: yue-HK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: su-id-x-suf-network, locale: su-ID, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-in-x-ahp-network, locale: en-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nb-no-x-cfl-network, locale: nb-NO, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: id-id-x-idd-network, locale: id-ID, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: it-it-x-itb-local, locale: it-IT, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: su-ID-language, locale: su-ID, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: th-TH-language, locale: th-TH, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-iob-network, locale: en-US, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nb-no-x-cmj-network, locale: nb-NO, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	legacySetLanguageVoice	networkRetriesCount, latency: low, name: en-AU-language, locale: en-AU, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-iol-network, locale: en-US, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-in-x-cxx-network, locale: en-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ar-xa-x-arz-local, locale: ar, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: id-id-x-ide-network, locale: id-ID, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pl-pl-x-zfg-local, locale: pl-PL, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: ta-in-x-tag-local, locale: ta-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: ru-ru-x-rue-network, locale: ru-RU, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: pt-BR-language, locale: pt-BR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pa-in-x-pag-local, locale: pa-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: th-th-x-mol-network, locale: th-TH, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: pa-IN-language, locale: pa-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-iom-network, locale: en-US, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nl-nl-x-lfc-local, locale: nl-NL, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ml-in-x-mlf-local, locale: ml-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: cmn-cn-x-ccc-local, locale: zh-CN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: lv-LV-language, locale: lv-LV, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-ca-x-cac-local, locale: fr-CA, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: tr-tr-x-tmc-network, locale: tr-TR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pt-pt-x-jfb-network, locale: pt-PT, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	legacySetLanguageVoice	networkRetriesCount, latency: low, name: en-GB-language, locale: en-GB, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: it-it-x-kda-network, locale: it-IT, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: cmn-cn-x-ccc-network, locale: zh-CN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-fr-x-fra-local, locale: fr-FR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ko-kr-x-kob-network, locale: ko-KR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: mr-IN-language, locale: mr-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: tr-tr-x-efu-local, locale: tr-TR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: te-in-x-tem-local, locale: te-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nb-no-x-tfs-local, locale: nb-NO, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: jv-id-x-jvf-network, locale: jv-ID, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: et-EE-language, locale: et-EE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: ko-KR-language, locale: ko-KR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pt-br-x-afs-local, locale: pt-BR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: en-NG-language, locale: en-NG, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: high, name: cy, locale: cy, network_required: 1, quality: very low
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: high, name: hr, locale: hr, network_required: 1, quality: very low
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: te-IN-language, locale: te-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: bn-in-x-bnf-network, locale: bn-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ja-jp-x-jac-local, locale: ja-JP, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: de-de-x-dea-network, locale: de-DE, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: cmn-tw-x-ctd-network, locale: zh-TW, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: hi-in-x-hid-network, locale: hi-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: vi-vn-x-vie-network, locale: vi-VN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: da-dk-x-nmm-network, locale: da-DK, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: tr-tr-x-cfs-local, locale: tr-TR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: es-es-x-eee-local, locale: es-ES, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-gb-x-gba-network, locale: en-GB, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pl-pl-x-oda-network, locale: pl-PL, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-iom-local, locale: en-US, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-au-x-auc-network, locale: en-AU, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: it-it-x-kda-local, locale: it-IT, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fil-ph-x-fic-local, locale: fil-PH, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ko-kr-x-kod-network, locale: ko-KR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pt-pt-x-sfs-local, locale: pt-PT, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: si-lk-x-sin-network, locale: si-LK, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-ca-x-caa-network, locale: fr-CA, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-in-x-end-network, locale: en-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pa-in-x-pag-network, locale: pa-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: vi-vn-x-gft-local, locale: vi-VN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: en-ng-x-tfn-network, locale: en-NG, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: tr-tr-x-ama-network, locale: tr-TR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: da-dk-x-nmm-local, locale: da-DK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: da-dk-x-vfb-network, locale: da-DK, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pl-pl-x-oda-local, locale: pl-PL, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: sv-se-x-afp-network, locale: sv-SE, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: tr-TR-language, locale: tr-TR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ko-kr-x-koc-local, locale: ko-KR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: es-us-x-esd-local, locale: es-US, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	legacySetLanguageVoice	networkRetriesCount, latency: low, name: en-US-language, locale: en-US, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: da-dk-x-kfm-network, locale: da-DK, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-fr-x-frc-local, locale: fr-FR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: su-id-x-suf-local, locale: su-ID, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-gb-x-gbc-network, locale: en-GB, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ur-pk-x-urm-local, locale: ur-PK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-in-x-cxx-local, locale: en-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-in-x-ene-local, locale: en-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pa-in-x-pae-local, locale: pa-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: ru-ru-x-ruc-network, locale: ru-RU, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: yue-HK-language, locale: yue-HK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-au-x-aua-network, locale: en-AU, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ja-jp-x-htm-local, locale: ja-JP, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: en-ng-x-tfn-local, locale: en-NG, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ja-jp-x-jac-network, locale: ja-JP, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: sv-se-x-cfg-local, locale: sv-SE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: hi-in-x-hic-local, locale: hi-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: sv-se-x-cmh-network, locale: sv-SE, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: cmn-cn-x-ccd-local, locale: zh-CN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pt-br-x-ptd-local, locale: pt-BR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: bn-in-x-bnf-local, locale: bn-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: da-dk-x-kfm-local, locale: da-DK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-tpd-local, locale: en-US, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ro-ro-x-vfv-network, locale: ro-RO, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: nb-NO-language, locale: nb-NO, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-ca-x-caa-local, locale: fr-CA, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ur-pk-x-cfn-local, locale: ur-PK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: hu-hu-x-kfl-local, locale: hu-HU, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-ca-x-cad-local, locale: fr-CA, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: yue-hk-x-yuc-network, locale: yue-HK, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: vi-VN-language, locale: vi-VN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: vi-vn-x-vif-local, locale: vi-VN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pt-pt-x-pmj-local, locale: pt-PT, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nl-nl-x-tfb-network, locale: nl-NL, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-au-x-aua-local, locale: en-AU, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: cmn-cn-x-cce-network, locale: zh-CN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nb-no-x-rfj-local, locale: nb-NO, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: ru-ru-x-rud-local, locale: ru-RU, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-ca-x-cac-network, locale: fr-CA, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: id-id-x-idc-network, locale: id-ID, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pt-pt-x-sfs-network, locale: pt-PT, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fil-ph-x-fic-network, locale: fil-PH, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: es-es-x-eea-network, locale: es-ES, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fil-ph-x-cfc-network, locale: fil-PH, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: id-ID-language, locale: id-ID, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: cs-cz-x-jfs-network, locale: cs-CZ, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: it-it-x-itc-local, locale: it-IT, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ml-in-x-mlm-network, locale: ml-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: de-de-x-deg-network, locale: de-DE, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pa-in-x-pac-network, locale: pa-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: ro-RO-language, locale: ro-RO, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: uk-ua-x-hfd-local, locale: uk-UA, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nl-be-x-bec-local, locale: nl-BE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: yue-hk-x-yud-local, locale: yue-HK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ms-my-x-mse-network, locale: ms-MY, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: pl-PL-language, locale: pl-PL, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ar-xa-x-are-network, locale: ar, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: id-id-x-idd-local, locale: id-ID, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: vi-vn-x-vic-network, locale: vi-VN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: vi-vn-x-vic-local, locale: vi-VN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-au-x-aud-local, locale: en-AU, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ne-np-x-nep-local, locale: ne-NP, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fil-ph-x-cfc-local, locale: fil-PH, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: cmn-tw-x-cte-local, locale: zh-TW, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: mr-in-x-mrf-network, locale: mr-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ne-np-x-nep-network, locale: ne-NP, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-iog-network, locale: en-US, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: high, name: sr, locale: sr, network_required: 1, quality: very low
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: ne-NP-language, locale: ne-NP, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: ru-ru-x-dfc-network, locale: ru-RU, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: de-de-x-deb-local, locale: de-DE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: nl-BE-language, locale: nl-BE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: si-LK-language, locale: si-LK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: te-in-x-tef-network, locale: te-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: ru-ru-x-dfc-local, locale: ru-RU, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: sk-sk-x-sfk-network, locale: sk-SK, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pt-br-x-pte-network, locale: pt-BR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: sv-se-x-cfg-network, locale: sv-SE, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fi-fi-x-afi-network, locale: fi-FI, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: yue-hk-x-yuc-local, locale: yue-HK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: lv-lv-x-imr-local, locale: lv-LV, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: high, name: sq, locale: sq, network_required: 1, quality: very low
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: it-it-x-itc-network, locale: it-IT, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: bn-in-x-bin-local, locale: bn-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: sk-SK-language, locale: sk-SK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: uk-ua-x-hfd-network, locale: uk-UA, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ms-my-x-msd-local, locale: ms-MY, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: tr-tr-x-ama-local, locale: tr-TR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: vi-vn-x-vid-local, locale: vi-VN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-fr-x-frb-network, locale: fr-FR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nl-nl-x-tfb-local, locale: nl-NL, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: hi-in-x-hie-local, locale: hi-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pt-pt-x-jfb-local, locale: pt-PT, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: sv-se-x-cmh-local, locale: sv-SE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: it-it-x-itb-network, locale: it-IT, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: da-dk-x-vfb-local, locale: da-DK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pt-pt-x-pmj-network, locale: pt-PT, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: id-id-x-dfz-local, locale: id-ID, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: es-us-x-esd-network, locale: es-US, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	legacySetLanguageVoice	networkRetriesCount, latency: low, name: ta-IN-language, locale: ta-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nb-no-x-tmg-local, locale: nb-NO, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ml-in-x-mlf-network, locale: ml-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: de-de-x-deg-local, locale: de-DE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-ca-x-cad-network, locale: fr-CA, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: el-gr-x-vfz-network, locale: el-GR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nl-nl-x-bmh-network, locale: nl-NL, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-tpf-network, locale: en-US, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: mr-in-x-mrf-local, locale: mr-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-in-x-ena-local, locale: en-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nb-no-x-tfs-network, locale: nb-NO, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: de-de-x-nfh-local, locale: de-DE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: kn-IN-language, locale: kn-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-gb-x-rjs-network, locale: en-GB, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: es-es-x-eea-local, locale: es-ES, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ms-my-x-msd-network, locale: ms-MY, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-fr-x-fra-network, locale: fr-FR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: bn-in-x-bnm-local, locale: bn-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pa-in-x-pad-network, locale: pa-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: sv-se-x-lfs-network, locale: sv-SE, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: bn-in-x-bnx-local, locale: bn-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pt-br-x-ptd-network, locale: pt-BR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ur-pk-x-cfn-network, locale: ur-PK, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: es-es-x-eec-network, locale: es-ES, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pt-pt-x-jmn-local, locale: pt-PT, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: da-dk-x-sfp-local, locale: da-DK, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: tr-tr-x-cfs-network, locale: tr-TR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pa-in-x-pae-network, locale: pa-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: high, name: sw, locale: sw, network_required: 1, quality: very low
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ms-my-x-msc-network, locale: ms-MY, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: gu-in-x-gum-local, locale: gu-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: es-us-x-esc-network, locale: es-US, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nl-be-x-bed-local, locale: nl-BE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: id-id-x-idc-local, locale: id-ID, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nl-nl-x-bmh-local, locale: nl-NL, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nb-no-x-cmj-local, locale: nb-NO, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: high, name: ca, locale: ca, network_required: 1, quality: very low
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ko-kr-x-kob-local, locale: ko-KR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-fr-x-vlf-local, locale: fr-FR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-iog-local, locale: en-US, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: cmn-tw-x-ctd-local, locale: zh-TW, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ar-xa-x-arz-network, locale: ar, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: bg-bg-language, locale: bg-BG, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ar-xa-x-arc-network, locale: ar, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: de-de-x-nfh-network, locale: de-DE, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pl-pl-x-bmg-local, locale: pl-PL, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ko-kr-x-ism-network, locale: ko-KR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: hi-in-x-cfn-network, locale: hi-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: cs-CZ-language, locale: cs-CZ, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: fr-fr-x-frd-local, locale: fr-FR, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pa-in-x-pad-local, locale: pa-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: jv-ID-language, locale: jv-ID, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: de-de-x-dea-local, locale: de-DE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: pt-br-x-afs-network, locale: pt-BR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: nl-NL-language, locale: nl-NL, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nb-no-x-tmg-network, locale: nb-NO, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	legacySetLanguageVoice	networkRetriesCount, latency: low, name: km-KH-language, locale: km-KH, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ja-jp-x-jab-local, locale: ja-JP, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-tpc-local, locale: en-US, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-gb-x-gbg-network, locale: en-GB, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ro-ro-x-vfv-local, locale: ro-RO, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: tr-tr-x-mfm-network, locale: tr-TR, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: es-es-x-eed-network, locale: es-ES, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	legacySetLanguageVoice	networkRetriesCount, latency: low, name: en-IN-language, locale: en-IN, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ms-my-x-mse-local, locale: ms-MY, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: ru-ru-x-ruc-local, locale: ru-RU, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: es-US-language, locale: es-US, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: ur-pk-x-urm-network, locale: ur-PK, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	legacySetLanguageVoice	networkRetriesCount, latency: low, name: sv-SE-language, locale: sv-SE, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: cmn-cn-x-ssa-network, locale: zh-CN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: cmn-tw-x-cte-network, locale: zh-TW, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: it-it-x-itd-network, locale: it-IT, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: ta-in-x-taf-network, locale: ta-IN, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: nl-nl-x-dma-local, locale: nl-NL, network_required: 0, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: yue-hk-x-yue-network, locale: yue-HK, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	notInstalled	networkRetriesCount, latency: low, name: lv-lv-x-imr-network, locale: lv-LV, network_required: 1, quality: high
+    },
+    {features: networkTimeoutMs	networkRetriesCount, latency: low, name: en-us-x-iol-local, locale: en-US, network_required: 0, quality: high
+    }
+]

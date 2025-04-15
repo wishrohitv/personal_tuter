@@ -1,0 +1,2 @@
+/home/wishrohitv/MyWorks/flutter work/project_tuter/android/app/.cxx/Debug/5y5s246r/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/wishrohitv/MyWorks/flutter work/project_tuter/android/app/.cxx/Debug/5y5s246r/armeabi-v7a/CMakeFiles/rebuild_cache.dir
